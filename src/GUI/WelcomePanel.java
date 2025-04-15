@@ -47,4 +47,4 @@ public class WelcomePanel extends JPanel {
         gbc.gridy = 4;
         add(registerButton, gbc);
     }
-}
+}fctgfutfi
